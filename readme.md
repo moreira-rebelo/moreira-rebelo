@@ -12,3 +12,5 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moreira-rebelo&" alt="moreira-rebelo" /></p>
+
+![snake gif](https://github.com/moreira-rebelo/moreira-rebelo/blob/output/github-contribution-grid-snake.gif)
