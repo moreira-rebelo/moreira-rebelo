@@ -1,6 +1,14 @@
-<h1 align="center">
-border-radius: 50px;
-background: #e0e0e0;
-box-shadow:  20px 20px 60px #bebebe,
-             -20px -20px 60px #ffffff;
-	</a></h1>
+<h1 align="center">Hi 👋, I'm Francisco Rebêlo</h1>
+<h3 align="center">An aspiring frontend developer from Portugal.</h3>
+
+<br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moreira-rebelo&show_icons=true&locale=en&layout=compact" alt="moreira-rebelo" /></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moreira-rebelo&show_icons=true&locale=en" alt="moreira-rebelo" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moreira-rebelo&" alt="moreira-rebelo" /></p>
